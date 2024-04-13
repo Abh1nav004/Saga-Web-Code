@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Saga';
+  title = 'cwh-todo-list';
 //   setTimeout(() => {
     
 //   }, timeout);
